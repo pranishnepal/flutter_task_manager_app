@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## App Demo:
-<img src="/screenrecords/iphone.png" width="4000" height="700"/>
+<img src="/screenrecords/iphone.png" width="400" height="700"/>
