@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## App Demo:
 
 ### Demo on Android:
-<img src="/screenrecords/demoApp.gif" width="350" height="650"/>
+<img src="/screenrecords/demoApp.gif" width="340" height="670"/>
 
 ### Screenshot from iPhone: 
 <img src="/screenrecords/iphone.png" width="400" height="700"/>
