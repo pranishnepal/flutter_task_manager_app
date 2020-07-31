@@ -1,4 +1,4 @@
-# todo_app
+# task_manager_app
 
 A new Flutter project.
 
@@ -25,3 +25,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
+## Design idea:
+<a> https://dribbble.com/shots/6581661-To-Do-App-Task-manager-concept/attachments </a>
