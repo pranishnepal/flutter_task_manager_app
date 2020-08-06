@@ -1,6 +1,6 @@
 # task_manager_app
 
-A new Flutter project.
+A task manager app made with flutter where you can mark your tasks for specific days and keep your life organized!
 
 ## Getting Started
 
